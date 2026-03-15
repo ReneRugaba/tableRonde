@@ -1,0 +1,32 @@
+
+
+- Perte d’effort cognitif  
+- Dépendance à l’IA  
+- Moins d’esprit critique  
+- Copier sans comprendre  
+- Baisse d’attention  
+- Appauvrissement de la mémoire  
+- Surconfiance dans les réponses  
+- Distraction / facilité excessive  
+- Désapprentissage de certaines compétences  
+- Automatisation non maîtrisée  
+- Gain de temps  
+- Aide à comprendre rapidement  
+- Accès instantané à la connaissance  
+- Créativité augmentée  
+- Apprentissage accéléré  
+- Aide pour structurer sa pensée  
+- Feedback immédiat  
+- Aide à explorer plusieurs points de vue  
+- Stimulation des idées  
+- Accès démocratisé à l’expertise  
+- Vérifier les sources  
+- Garder l’esprit critique  
+- Poser un cadre d’usage  
+- Complémentarité humain–IA  
+- Curiosité et recul  
+- Ne pas déléguer entièrement la réflexion  
+- Reformuler et questionner plusieurs fois  
+- Croiser l’IA avec des connaissances humaines  
+- Apprendre à bien formuler les questions  
+- Être conscient des limites et biais  
