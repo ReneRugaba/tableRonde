@@ -1,7 +1,7 @@
 # PENSE-BÊTE - ANIMATION BMAD (40 min)
 
 ## Cadre de départ (1 min)
-- Question centrale: "L'IA nous rend-elle moins intelligents, plus intelligents, ou les deux selon les conditions?"
+- Question centrale: "L'IA nous rend-elle moins intelligents?"
 - Règle d'or: **1 post-it = 1 idée**.
 - Objectif: produire **1 conclusion collective**.
 
@@ -51,6 +51,19 @@
 - "Un exemple concret?"
 - "Qu'est-ce qu'on n'a pas encore exploré?"
 - "De quoi aurions-nous besoin pour bien utiliser l'IA ici?"
+
+## Phrases pour provoquer le debat
+### Axe risques
+- "Si l'IA répond vite, est-ce qu'on réfléchit moins en profondeur?"
+- "Sommes-nous en train de confondre productivité et intelligence?"
+- "À partir de quand l'IA devient une béquille qui affaiblit l'autonomie?"
+- "Si personne ne vérifie, qui porte la responsabilité des erreurs?"
+
+### Axe bénéfices
+- "L'IA nous rend-elle plus exigeants en nous forçant à mieux formuler nos demandes?"
+- "Peut-elle libérer du temps pour des tâches à plus forte valeur intellectuelle?"
+- "Est-ce que l'IA peut élargir l'accès à des savoirs qu'on n'aurait pas explorés seuls?"
+- "Dans quels cas l'IA nous aide vraiment à apprendre plus vite et mieux?"
 
 ## Phrase finale (secours)
 "L'IA peut affaiblir notre intelligence lorsqu'elle remplace notre esprit critique et notre effort.
